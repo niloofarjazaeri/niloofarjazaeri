@@ -11,7 +11,7 @@ My work bridges **signal processing, deep learning, and applied ML**, aiming to 
 
 ---
 
-## Who I am?
+##  My Background
 
 🎓 **Ph.D. Candidate** @ University of Ottawa (2023–2027)  
 🧪 **Machine Learning Researcher** @ Crynostics Inc. & University of Ottawa  
