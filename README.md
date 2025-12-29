@@ -30,7 +30,7 @@ My work bridges **signal processing, deep learning, and applied ML**, aiming to 
 ## 🎥 Research in Motion
 
 <p align="center">
-  <img src="assets/research_animation.gif" width="420" />
+  <img src="assets/Research Scientist GIF by uwmadison.gif" width="420" />
 </p>
 
 <sub>Signals, learning, and structure — always evolving.</sub>
