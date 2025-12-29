@@ -27,6 +27,15 @@ My work bridges **signal processing, deep learning, and applied ML**, aiming to 
 
 📌 Collaborations across **academia, government, and industry**
 
+## 🎥 Research in Motion
+
+<p align="center">
+  <img src="assets/research_animation.gif" width="420" />
+</p>
+
+<sub>Signals, learning, and structure — always evolving.</sub>
+
+
 ---
 
 ## 🚧 Current & Recent Projects
