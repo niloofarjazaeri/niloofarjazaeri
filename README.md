@@ -1,4 +1,4 @@
-# Welcome to my Github.
+# Welcome to my Github
 
 🌐 [Personal Website](https://nilooofarrr.github.io/Niloofar_Jazaeri.github.io/) •  
 🔗 [LinkedIn](https://linkedin.com/in/niloofarjazaeri) •  
@@ -11,7 +11,7 @@ My work bridges **signal processing, deep learning, and applied ML**, aiming to 
 
 ---
 
-## Who I am
+## Who I am?
 
 🎓 **Ph.D. Candidate** @ University of Ottawa (2023–2027)  
 🧪 **Machine Learning Researcher** @ Crynostics Inc. & University of Ottawa  
