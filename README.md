@@ -1,4 +1,4 @@
-# Welcome to my GitHub 👋  
+# Hi there :) 
 
 🌐 [Personal Website](https://nilooofarrr.github.io/Niloofar_Jazaeri.github.io/) •  
 🔗 [LinkedIn](https://linkedin.com/in/niloofarjazaeri) •  
