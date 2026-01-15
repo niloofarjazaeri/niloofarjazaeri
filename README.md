@@ -1,6 +1,6 @@
 # Welcome to my Github
 
-🌐 [Personal Website](https://nilooofarrr.github.io/Niloofar_Jazaeri.github.io/) •  
+🌐 [Personal Website](https://niloofarjazaeri.github.io/Niloofar_Jazaeri.github.io/) •  
 🔗 [LinkedIn](https://linkedin.com/in/niloofarjazaeri) •  
 📚 [Google Scholar](https://scholar.google.com/)  
 
